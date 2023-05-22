@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Bernice Owusu</h1>
+<h1 align="center">Hi 👋, I'm Bernice </h1>
 <h3 align="center">A passionate frontend developer from Ghana!</h3>
 
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **react, react native, next**
 
-- 📫 How to reach me **bernyx.owusu@gmail.com**
+- 📫 How to reach me **bernyx@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
